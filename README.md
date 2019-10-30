@@ -25,6 +25,7 @@ Explain what it is and why it might be important.
 Maybe explain the difference between authentication and authorization.
 
 ### Quiz
+
 + Good question 1
 + Good question 2
 
@@ -34,6 +35,7 @@ Are you really you?
 What happens if somebody steals "you" - Identity Theft
 
 ### Quiz
+
 + Questions here
 
 ## Different Methods of Authentication
@@ -66,7 +68,9 @@ Where will we be in 5, 10, 20 years?
 Where were we 5, 10, 20 years ago, just for comparison?
 
 ## Playpen
+
 + List some auth models
+
 + Describe simple and complex auth
 + List some different types of encryption
 + Do some examples of encrypting and decrypting
