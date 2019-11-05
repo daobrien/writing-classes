@@ -1,10 +1,7 @@
 # Encryption and Authentication: Not Only for Spies
 
-Some sort of intro statement.
+This is an exercise-based course that explores the concepts and methods necessary for successful encryption and decryption of various types of content, and also the successful authentication of different users to different types of systems. Modify as necessary...
 
-## Heading 2
-
-text here
 
 * Course Objectives
 
@@ -21,22 +18,20 @@ A certain level of paranoia is a benefit but not required.
 
 ## Identity Authentication
 
-Explain what it is and why it might be important.
-Maybe explain the difference between authentication and authorization.
-
-### Quiz
-
-+ Good question 1
-+ Good question 2
+* Explain what it is and why it might be important.
+* Maybe explain the difference between authentication and authorization.
 
 ## Pros and Cons of Authentication
 
-Are you really you?
-What happens if somebody steals "you" - Identity Theft
+* Are you really you?
+* What happens if somebody steals "you" - Identity Theft
+* Use your imagination and add a topic or two.
 
 ### Quiz
 
-+ Questions here
+* Questions here
+* At least one quiz question each
+* No more than two multiple-choice questions
 
 ## Different Methods of Authentication
 
@@ -44,28 +39,59 @@ What happens if somebody steals "you" - Identity Theft
 + Bio-auth
 + Think of something futuristic?
 
-### GE: Set up Multi-factor Auth
+## GE: Setting up Multi-factor Auth
 
+Leave this blank. The authors can fill it in from start to finish.
 
 ## An Introduction to Encryption
 
-Write something that explains what encryption is, assuming most people know nothing.
-Maybe also explain what it is not, just to set some boundaries.
+* Explain what encryption is, assuming most people know nothing.
+* Explain what it is not, just to set some boundaries.
+* Discuss and dispel some myths about encryption.
+* Add your topic here.
+* Add another topic here.
 
-## Adv. and Disadv. of Encryption in Society
+## Quiz
 
-Some things are good.
-Maybe some things are not so good.
-Try not to get too political.
+* At least four good questions.
+* At least one question per writer.
+* No more than two multi-choice.
+
+## Pros and Cons of Encryption
+
+* Some things are good.
+* Maybe some things are not so good.
+* Try not to get too political.
+
+## Quiz
+
+* At least four good questions.
+* At least one question per writer.
+* No more than two multi-choice.
+
 
 ## Examples of Encryption in Everyday Life
 
-Use your imagination.
+* Use your imagination.
+* Find at least three dissimilar examples.
+* Make sure you include something you can use in a GE.
+
+## Quiz
+
+* At least four good questions.
+* At least one question per writer.
+* No more than two multi-choice.
 
 ## The Future of Encryption
+(do we need this?)
 
 Where will we be in 5, 10, 20 years?
 Where were we 5, 10, 20 years ago, just for comparison?
+
+## GE: Configuring|Setting up $encryption-type
+
+* Leave this blank. The authors should do this from start to finish.
+
 
 ## Playpen
 
