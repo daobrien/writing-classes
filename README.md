@@ -48,7 +48,7 @@ Leave this blank. The authors can fill it in from start to finish.
 * Explain what encryption is, assuming most people know nothing.
 * Explain what it is not, just to set some boundaries.
 * Discuss and dispel some myths about encryption.
-* Add your topic here.
+* Discuss strong versus weak encryption.
 * Add another topic here.
 
 ## Quiz
